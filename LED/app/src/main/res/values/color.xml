@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_blue">#009688</color>
+    <color name="text_gray">#424242</color>
+
+    <color name="light_gray">#d3d3d3</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#f0fff0</color>
+    <color name="dark_gray">#bebebe</color>
+    <drawable name="blue">#009688</drawable>
+    <drawable name="gray">#d6d6d6</drawable>
+
+</resources>
